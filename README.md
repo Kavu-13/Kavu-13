@@ -12,7 +12,7 @@
 
 - 🎓 Pre-final year **CSE student** at Central University of Jammu  
 - 💻 Experienced as a **Full Stack Developer Intern @ CampusBuzz**  
-- 📊 Interested in **AI/ML, Blockchain, IoT & Data Analytics**  
+- 📊 Interested in **AI/ML, Data Analytics**  
 - 🚀 Passionate about developing **innovative projects with real-world impact**  
 - 🌱 Continuously learning **FastAPI, Deep Learning & System Design**
 
